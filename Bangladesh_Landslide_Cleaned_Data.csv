@@ -1,0 +1,35 @@
+date,month,month_number,year,country,divission,city,hazard_type,landslide_type,trigger,fatalities,injuries,location_accuracy_km,landslide_size,distance,population,latitude,longitude,source_link
+11-06-07,June,6,2007,Bangladesh,Chittagong Division,Chittagong,landslide,Landslide,Monsoon,128,150,15,Very_large,2.48492,3920222,22.3555,91.8205,http://en.wikipedia.org/wiki/2007_Chittagong_mudslide
+11-06-07,June,6,2007,Bangladesh,Chittagong Division,Manikchari,landslide,Mudslide,Downpour,3,0,10,Medium,25.83472,25708,22.6368,92.1453,http://en.wikipedia.org/wiki/2007_Chittagong_mudslide
+10-09-07,September,9,2007,Bangladesh,Chittagong Division,Nabinagar ,landslide,Mudslide,Rain,2,0,5,Medium,0.68998,31671,23.8917,90.9733,http://www.thedailystar.net/story.php?nid=3742
+15-10-07,October,10,2007,Bangladesh,Khulna Division,Betbunia,landslide,Mudslide,Rain,3,0,5,Medium,23.346,37985,22.5333,89.4,
+19-10-07,October,10,2007,Bangladesh,Chittagong Division,Baraiyarhat,landslide,Landslide,Rain,0,0,10,Medium,14.65105,39335,22.894,91.5327,
+03-07-08,July,7,2008,Bangladesh,Chittagong Division,Cox's Bazar,landslide,Landslide,Downpour,20,0,5,Medium,3.68821,253788,21.44,92,
+01-08-08,August,8,2008,Bangladesh,Sylhet Division,Sylhet,landslide,Landslide,Rain,0,0,50,Medium,3.0718,237000,24.896,91.9022,
+18-08-08,August,8,2008,Bangladesh,Chittagong Division,Chittagong,landslide,Landslide,Monsoon,11,0,10,Medium,0.83926,3920222,22.3421,91.8242,
+23-08-08,August,8,2008,Bangladesh,Chittagong Division,Chittagong,landslide,Landslide,Downpour,0,0,10,Medium,1.46523,3920222,22.344,91.8188,http://www.thedailystar.net/story.php?nid=51653
+18-05-09,May,5,2009,Bangladesh,Sylhet Division,Sreemangal,landslide,Mudslide,Downpour,6,0,10,Medium,16.13337,5508,24.3083,91.7333,
+31-07-09,July,7,2009,Bangladesh,Chittagong Division,Bandarban,landslide,Landslide,Downpour,10,0,5,Medium,4.48178,32523,22.2251,92.19,
+15-06-10,June,6,2010,Bangladesh,Chittagong Division,Cox's Bazar,landslide,Landslide,Downpour,2,0,10,Medium,4.53886,253788,21.4384,92.0082,
+15-06-10,June,6,2010,Bangladesh,Chittagong Division,Teknaf,landslide,Landslide,Downpour,31,0,5,Large,0.29303,40557,21.06313524,92.19566765,
+15-06-10,June,6,2010,Bangladesh,Chittagong Division,Rejupara,landslide,Landslide,Downpour,6,0,5,Medium,32.54732,253788,21.23704301,92.19530189,
+15-06-10,June,6,2010,Bangladesh,Chittagong Division,Ukhia,landslide,Landslide,Downpour,4,0,15,Medium,34.1929,253788,21.23291114,92.19905362,
+15-06-10,June,6,2010,Bangladesh,Chittagong Division,Rejupara,landslide,Landslide,Downpour,1,0,5,Medium,32.54732,253788,21.23967983,92.19314477,
+15-06-10,June,6,2010,Bangladesh,Chittagong Division,Teknaf,landslide,Landslide,Downpour,7,0,25,Medium,0.29303,40557,20.92931962,92.22263842,
+15-06-10,June,6,2010,Bangladesh,Chittagong Division,Gundum,landslide,Landslide,Downpour,4,0,50,Medium,35.22153,253788,21.1899,92.1571,
+15-06-10,June,6,2010,Bangladesh,Chittagong Division,Naikhangchhari,landslide,Landslide,Downpour,4,0,5,Medium,24.6146,32523,22,92.3333,
+01-07-11,July,7,2011,Bangladesh,Chittagong Division,Chittagong,landslide,Landslide,Downpour,17,0,10,Large,1.72122,3920222,22.344,91.8161,
+19-07-11,July,7,2011,Bangladesh,Dhaka Division,Dhaka,landslide,Landslide,Downpour,4,0,50,Large,0.15781,10356500,23.7118,90.4077,
+08-08-11,August,8,2011,Bangladesh,Chittagong Division,Bandarban,landslide,Landslide,Rain,2,0,10,Medium,0.67378,32523,22.2009,92.2168,
+08-06-12,June,6,2012,Bangladesh,Chittagong Division,Gorakghata Municipality,landslide,Landslide,Downpour,1,0,5,Medium,7.34628,253788,21.5202,91.9696,
+24-06-12,June,6,2012,Bangladesh,Chittagong Division,Ramu,landslide,Landslide,Downpour,41,0,8,Large,4.36333,253788,21.38070054,92.01072983,http://www.foxnews.com/world/2012/06/27/landslides-kill-30-in-southern-bangladesh513572/
+24-06-12,June,6,2012,Bangladesh,Chittagong Division,Thanchi,landslide,Landslide,Downpour,36,0,5,Large,48.13191,52005,21.7684,92.3783,
+24-06-12,June,6,2012,Bangladesh,Chittagong Division,Chittagong,landslide,Landslide,Downpour,31,0,10,Large,1.03985,3920222,22.3312,91.8252,
+30-10-12,October,10,2012,Bangladesh,Chittagong Division,Cox's Bazar,landslide,Landslide,Rain,1,0,10,Medium,4.31226,253788,21.443,92.0076,http://www.thefinancialexpress-bd.com/index.php?ref=MjBfMTBfMzFfMTJfMV85MV8xNDg0MjQ=
+30-01-13,January,1,2013,Bangladesh,Chittagong Division,Sitakund,landslide,Landslide,Rain,0,0,5,Large,14.59203,33200,22.6205,91.6591,http://bdnews24.com/bangladesh/2013/01/30/landslide-in-sitakunda
+30-06-13,June,6,2013,Bangladesh,Chittagong Division,Saikatpara,landslide,Mudslide,Downpour,1,1,1,Medium,36.36715,32523,21.9907,92.4951,http://www.thedailystar.net/beta2/news/child-killed-in-mudslide-in-coxs-bazar/
+28-07-13,July,7,2013,Bangladesh,Chittagong Division,Chittagong,landslide,Landslide,Downpour,2,0,1,Medium,2.28507,3920222,22.3521,91.8151,http://www.dhakatribune.com/bangladesh/2013/jul/29/spate-deaths-landslides-continues
+03-02-14,February,2,2014,Bangladesh,Chittagong Division,Chittagong,landslide,Landslide,Downpour,1,1,5,medium,2.2358,3920222,22.3475,91.8123,http://www.thedailystar.net/woman-killed-in-ctg-landslide-9838
+10-05-14,May,5,2014,Bangladesh,Sylhet Division,Borolekha ,landslide,Landslide,Rain,3,0,25,Small,8.46607,57441,24.4136,91.7561,
+10-05-14,May,5,2014,Bangladesh,Sylhet Division,Satchhari,landslide,Landslide,Rain,0,0,10,Medium,11.04683,57441,24.5784,91.7227,
+26-06-15,June,6,2015,Bangladesh,Chittagong Division,Cox's Bazar,landslide,Landslide,Monsoon,1,4,1,Medium,4.53556,253788,21.4409,92.0074,http://bdnews24.com/bangladesh/2015/06/26/child-killed-four-injured-in-coxs-bazar-landslide
