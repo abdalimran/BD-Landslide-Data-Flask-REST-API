@@ -16,7 +16,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Wellcome to Landslide Data for Bangladesh API"
+    return "<h1>Wellcome to Landslide Data for Bangladesh API</h1>"
 
 @app.route("/visualizations")
 def getVisualizations():
@@ -48,10 +48,14 @@ def getNewsFeeds():
     data = pd.read_csv('Bangladesh_Landslide_Cleaned_Data.csv')
 
     clean_links = data['source_link'].dropna()
-    news = {
-        "feeds":clean_links.values.tolist()
-    }
-    return jsonify(news)
+    clean_titles = data['title'].dropna()
+
+    news_feeds = []
+
+    for cl,ct in zip(clean_links.values.tolist(),clean_titles.values.tolist()):
+        news_feeds.append({"title":ct,"link":cl})
+
+    return jsonify(news_feeds)
 
 
 if __name__ == "__main__":
